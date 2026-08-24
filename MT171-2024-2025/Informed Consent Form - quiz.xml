@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="7333" moduleid="21839" modulename="quiz" contextid="148606">
+  <quiz id="7333">
+    <name>Informed Consent Form</name>
+    <intro>&lt;h4&gt;Please read the information here and consent to participate in the study.&lt;/h4&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>1759398480</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>4352</reviewcorrectness>
+    <reviewmaxmarks>69888</reviewmaxmarks>
+    <reviewmarks>4352</reviewmarks>
+    <reviewspecificfeedback>4352</reviewspecificfeedback>
+    <reviewgeneralfeedback>4352</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>1.00000</sumgrades>
+    <grade>1.00000</grade>
+    <timecreated>1759397510</timecreated>
+    <timemodified>1759423875</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionminattempts>0</completionminattempts>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_addreview_quiz>
+    </subplugin_quizaccess_addreview_quiz>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <quiz_grade_items>
+    </quiz_grade_items>
+    <question_instances>
+      <question_instance id="37035">
+        <quizid>7333</quizid>
+        <slot>1</slot>
+        <page>1</page>
+        <displaynumber>$@NULL@$</displaynumber>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <quizgradeitemid>$@NULL@$</quizgradeitemid>
+        <question_reference id="32592">
+          <usingcontextid>148606</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>138326</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="8796">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="17559">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>1.10000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+      <grade id="241446">
+        <userid>20282</userid>
+        <gradeval>1.00000</gradeval>
+        <timemodified>1760531390</timemodified>
+      </grade>
+      <grade id="243827">
+        <userid>20272</userid>
+        <gradeval>1.00000</gradeval>
+        <timemodified>1764735353</timemodified>
+      </grade>
+      <grade id="244716">
+        <userid>14842</userid>
+        <gradeval>1.00000</gradeval>
+        <timemodified>1764907162</timemodified>
+      </grade>
+      <grade id="267951">
+        <userid>20499</userid>
+        <gradeval>0.00000</gradeval>
+        <timemodified>1767642108</timemodified>
+      </grade>
+      <grade id="285837">
+        <userid>20786</userid>
+        <gradeval>1.00000</gradeval>
+        <timemodified>1770629499</timemodified>
+      </grade>
+      <grade id="293596">
+        <userid>20434</userid>
+        <gradeval>1.00000</gradeval>
+        <timemodified>1772050150</timemodified>
+      </grade>
+      <grade id="359437">
+        <userid>20220</userid>
+        <gradeval>1.00000</gradeval>
+        <timemodified>1777272216</timemodified>
+      </grade>
+      <grade id="359748">
+        <userid>2846</userid>
+        <gradeval>1.00000</gradeval>
+        <timemodified>1777294542</timemodified>
+      </grade>
+      <grade id="362757">
+        <userid>14486</userid>
+        <gradeval>1.00000</gradeval>
+        <timemodified>1777618863</timemodified>
+      </grade>
+    </grades>
+    <attempts>
+      <attempt id="441417">
+        <userid>20282</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>643878</uniqueid>
+        <layout>1,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1760531277</timestart>
+        <timefinish>1760531390</timefinish>
+        <timemodified>1760531390</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>1.00000</sumgrades>
+        <gradednotificationsenttime>1760531390</gradednotificationsenttime>
+        <question_usage id="643878">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="2589605">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>221107</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>INFORMED CONSENT
+
+1. PURPOSE
+
+This study explores how students use STACK, an online tool for mathematics.
+We aim to learn about your expectations, motivation, and ideas for improving learning.
+
+2. WHAT YOU WILL DO
+
+You will complete a short survey (15–30 minutes).
+You may also join a focus group (45–60 minutes).
+Researchers will use _anonymized_ STACK activity and exam data.
+
+3. VOLUNTARY PARTICIPATION
+
+Participation is VOLUNTARY. You can stop at any time without penalty.
+
+4. RISKS &amp; BENEFITS
+
+Risks are minimal, and you may skip any question.
+Your feedback will help improve digital assessment in African universities.
+
+5. CONFIDENTIALITY
+
+Your responses will remain confidential. No names or personal details will appear in reports.
+
+-------------------------
+
+Please confirm if you agree or
+do not agree to take part in this study.
+
+BY SELECTING BELOW, YOU CONFIRM THAT:
+
+You have read the above information,
+you understand that participation is voluntary,
+and you may withdraw at any time without penalty.
+
+Consent to Participate:
+: I do not agree to take part in this study.; I have carefully read the above information and voluntarily agree to take part in this study.</questionsummary>
+              <rightanswer>I have carefully read the above information and voluntarily agree to take part in this study.</rightanswer>
+              <responsesummary>I have carefully read the above information and voluntarily agree to take part in this study.</responsesummary>
+              <timemodified>1760531390</timemodified>
+              <steps>
+                <step id="13711745">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1760531277</timecreated>
+                  <userid>20282</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>54728,54727</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="13711746">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1760531376</timecreated>
+                  <userid>20282</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="13711747">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1760531390</timecreated>
+                  <userid>20282</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="442246">
+        <userid>20375</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>649554</uniqueid>
+        <layout>1,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>inprogress</state>
+        <timestart>1764251584</timestart>
+        <timefinish>0</timefinish>
+        <timemodified>1764251584</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>$@NULL@$</sumgrades>
+        <gradednotificationsenttime>$@NULL@$</gradednotificationsenttime>
+        <question_usage id="649554">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="2603618">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>221107</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>INFORMED CONSENT
+
+1. PURPOSE
+
+This study explores how students use STACK, an online tool for mathematics.
+We aim to learn about your expectations, motivation, and ideas for improving learning.
+
+2. WHAT YOU WILL DO
+
+You will complete a short survey (15–30 minutes).
+You may also join a focus group (45–60 minutes).
+Researchers will use _anonymized_ STACK activity and exam data.
+
+3. VOLUNTARY PARTICIPATION
+
+Participation is VOLUNTARY. You can stop at any time without penalty.
+
+4. RISKS &amp; BENEFITS
+
+Risks are minimal, and you may skip any question.
+Your feedback will help improve digital assessment in African universities.
+
+5. CONFIDENTIALITY
+
+Your responses will remain confidential. No names or personal details will appear in reports.
+
+-------------------------
+
+Please confirm if you agree or
+do not agree to take part in this study.
+
+BY SELECTING BELOW, YOU CONFIRM THAT:
+
+You have read the above information,
+you understand that participation is voluntary,
+and you may withdraw at any time without penalty.
+
+Consent to Participate:
+: I do not agree to take part in this study.; I have carefully read the above information and voluntarily agree to take part in this study.</questionsummary>
+              <rightanswer>I have carefully read the above information and voluntarily agree to take part in this study.</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1764251584</timemodified>
+              <steps>
+                <step id="13753993">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1764251584</timecreated>
+                  <userid>20375</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>54728,54727</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="445935">
+        <userid>20272</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>654251</uniqueid>
+        <layout>1,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1764735319</timestart>
+        <timefinish>1764735353</timefinish>
+        <timemodified>1764735353</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>1.00000</sumgrades>
+        <gradednotificationsenttime>1764735353</gradednotificationsenttime>
+        <question_usage id="654251">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="2646284">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>221107</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>INFORMED CONSENT
+
+1. PURPOSE
+
+This study explores how students use STACK, an online tool for mathematics.
+We aim to learn about your expectations, motivation, and ideas for improving learning.
+
+2. WHAT YOU WILL DO
+
+You will complete a short survey (15–30 minutes).
+You may also join a focus group (45–60 minutes).
+Researchers will use _anonymized_ STACK activity and exam data.
+
+3. VOLUNTARY PARTICIPATION
+
+Participation is VOLUNTARY. You can stop at any time without penalty.
+
+4. RISKS &amp; BENEFITS
+
+Risks are minimal, and you may skip any question.
+Your feedback will help improve digital assessment in African universities.
+
+5. CONFIDENTIALITY
+
+Your responses will remain confidential. No names or personal details will appear in reports.
+
+-------------------------
+
+Please confirm if you agree or
+do not agree to take part in this study.
+
+BY SELECTING BELOW, YOU CONFIRM THAT:
+
+You have read the above information,
+you understand that participation is voluntary,
+and you may withdraw at any time without penalty.
+
+Consent to Participate:
+: I do not agree to take part in this study.; I have carefully read the above information and voluntarily agree to take part in this study.</questionsummary>
+              <rightanswer>I have carefully read the above information and voluntarily agree to take part in this study.</rightanswer>
+              <responsesummary>I have carefully read the above information and voluntarily agree to take part in this study.</responsesummary>
+              <timemodified>1764735353</timemodified>
+              <steps>
+                <step id="13917573">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1764735319</timecreated>
+                  <userid>20272</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>54728,54727</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="13917593">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1764735346</timecreated>
+                  <userid>20272</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="13917594">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1764735353</timecreated>
+                  <userid>20272</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="447443">
+        <userid>14842</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>655969</uniqueid>
+        <layout>1,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1764907114</timestart>
+        <timefinish>1764907162</timefinish>
+        <timemodified>1764907162</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>1.00000</sumgrades>
+        <gradednotificationsenttime>1764907162</gradednotificationsenttime>
+        <question_usage id="655969">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="2658158">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>221107</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>INFORMED CONSENT
+
+1. PURPOSE
+
+This study explores how students use STACK, an online tool for mathematics.
+We aim to learn about your expectations, motivation, and ideas for improving learning.
+
+2. WHAT YOU WILL DO
+
+You will complete a short survey (15–30 minutes).
+You may also join a focus group (45–60 minutes).
+Researchers will use _anonymized_ STACK activity and exam data.
+
+3. VOLUNTARY PARTICIPATION
+
+Participation is VOLUNTARY. You can stop at any time without penalty.
+
+4. RISKS &amp; BENEFITS
+
+Risks are minimal, and you may skip any question.
+Your feedback will help improve digital assessment in African universities.
+
+5. CONFIDENTIALITY
+
+Your responses will remain confidential. No names or personal details will appear in reports.
+
+-------------------------
+
+Please confirm if you agree or
+do not agree to take part in this study.
+
+BY SELECTING BELOW, YOU CONFIRM THAT:
+
+You have read the above information,
+you understand that participation is voluntary,
+and you may withdraw at any time without penalty.
+
+Consent to Participate:
+: I do not agree to take part in this study.; I have carefully read the above information and voluntarily agree to take part in this study.</questionsummary>
+              <rightanswer>I have carefully read the above information and voluntarily agree to take part in this study.</rightanswer>
+              <responsesummary>I have carefully read the above information and voluntarily agree to take part in this study.</responsesummary>
+              <timemodified>1764907162</timemodified>
+              <steps>
+                <step id="13967815">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1764907114</timecreated>
+                  <userid>14842</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>54728,54727</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="13967817">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1764907158</timecreated>
+                  <userid>14842</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="13967818">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1764907162</timecreated>
+                  <userid>14842</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="483589">
+        <userid>20499</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>696559</uniqueid>
+        <layout>1,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1767642088</timestart>
+        <timefinish>1767642108</timefinish>
+        <timemodified>1767642108</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>0.00000</sumgrades>
+        <gradednotificationsenttime>1767642108</gradednotificationsenttime>
+        <question_usage id="696559">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="2866038">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>221107</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>INFORMED CONSENT
+
+1. PURPOSE
+
+This study explores how students use STACK, an online tool for mathematics.
+We aim to learn about your expectations, motivation, and ideas for improving learning.
+
+2. WHAT YOU WILL DO
+
+You will complete a short survey (15–30 minutes).
+You may also join a focus group (45–60 minutes).
+Researchers will use _anonymized_ STACK activity and exam data.
+
+3. VOLUNTARY PARTICIPATION
+
+Participation is VOLUNTARY. You can stop at any time without penalty.
+
+4. RISKS &amp; BENEFITS
+
+Risks are minimal, and you may skip any question.
+Your feedback will help improve digital assessment in African universities.
+
+5. CONFIDENTIALITY
+
+Your responses will remain confidential. No names or personal details will appear in reports.
+
+-------------------------
+
+Please confirm if you agree or
+do not agree to take part in this study.
+
+BY SELECTING BELOW, YOU CONFIRM THAT:
+
+You have read the above information,
+you understand that participation is voluntary,
+and you may withdraw at any time without penalty.
+
+Consent to Participate:
+: I do not agree to take part in this study.; I have carefully read the above information and voluntarily agree to take part in this study.</questionsummary>
+              <rightanswer>I have carefully read the above information and voluntarily agree to take part in this study.</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1767642108</timemodified>
+              <steps>
+                <step id="15086281">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1767642088</timecreated>
+                  <userid>20499</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>54728,54727</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="15086286">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1767642108</timecreated>
+                  <userid>20499</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="517182">
+        <userid>20786</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>733707</uniqueid>
+        <layout>1,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1770629485</timestart>
+        <timefinish>1770629499</timefinish>
+        <timemodified>1770629499</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>1.00000</sumgrades>
+        <gradednotificationsenttime>1770629499</gradednotificationsenttime>
+        <question_usage id="733707">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="3041154">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>221107</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>INFORMED CONSENT
+
+1. PURPOSE
+
+This study explores how students use STACK, an online tool for mathematics.
+We aim to learn about your expectations, motivation, and ideas for improving learning.
+
+2. WHAT YOU WILL DO
+
+You will complete a short survey (15–30 minutes).
+You may also join a focus group (45–60 minutes).
+Researchers will use _anonymized_ STACK activity and exam data.
+
+3. VOLUNTARY PARTICIPATION
+
+Participation is VOLUNTARY. You can stop at any time without penalty.
+
+4. RISKS &amp; BENEFITS
+
+Risks are minimal, and you may skip any question.
+Your feedback will help improve digital assessment in African universities.
+
+5. CONFIDENTIALITY
+
+Your responses will remain confidential. No names or personal details will appear in reports.
+
+-------------------------
+
+Please confirm if you agree or
+do not agree to take part in this study.
+
+BY SELECTING BELOW, YOU CONFIRM THAT:
+
+You have read the above information,
+you understand that participation is voluntary,
+and you may withdraw at any time without penalty.
+
+Consent to Participate:
+: I have carefully read the above information and voluntarily agree to take part in this study.; I do not agree to take part in this study.</questionsummary>
+              <rightanswer>I have carefully read the above information and voluntarily agree to take part in this study.</rightanswer>
+              <responsesummary>I have carefully read the above information and voluntarily agree to take part in this study.</responsesummary>
+              <timemodified>1770629499</timemodified>
+              <steps>
+                <step id="15945003">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1770629485</timecreated>
+                  <userid>20786</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>54727,54728</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="15945010">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1770629496</timecreated>
+                  <userid>20786</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="15945011">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1770629499</timecreated>
+                  <userid>20786</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="531003">
+        <userid>20434</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>748616</uniqueid>
+        <layout>1,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1772050009</timestart>
+        <timefinish>1772050150</timefinish>
+        <timemodified>1772050150</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>1.00000</sumgrades>
+        <gradednotificationsenttime>1772050150</gradednotificationsenttime>
+        <question_usage id="748616">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="3119354">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>221107</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>INFORMED CONSENT
+
+1. PURPOSE
+
+This study explores how students use STACK, an online tool for mathematics.
+We aim to learn about your expectations, motivation, and ideas for improving learning.
+
+2. WHAT YOU WILL DO
+
+You will complete a short survey (15–30 minutes).
+You may also join a focus group (45–60 minutes).
+Researchers will use _anonymized_ STACK activity and exam data.
+
+3. VOLUNTARY PARTICIPATION
+
+Participation is VOLUNTARY. You can stop at any time without penalty.
+
+4. RISKS &amp; BENEFITS
+
+Risks are minimal, and you may skip any question.
+Your feedback will help improve digital assessment in African universities.
+
+5. CONFIDENTIALITY
+
+Your responses will remain confidential. No names or personal details will appear in reports.
+
+-------------------------
+
+Please confirm if you agree or
+do not agree to take part in this study.
+
+BY SELECTING BELOW, YOU CONFIRM THAT:
+
+You have read the above information,
+you understand that participation is voluntary,
+and you may withdraw at any time without penalty.
+
+Consent to Participate:
+: I do not agree to take part in this study.; I have carefully read the above information and voluntarily agree to take part in this study.</questionsummary>
+              <rightanswer>I have carefully read the above information and voluntarily agree to take part in this study.</rightanswer>
+              <responsesummary>I have carefully read the above information and voluntarily agree to take part in this study.</responsesummary>
+              <timemodified>1772050150</timemodified>
+              <steps>
+                <step id="16329721">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1772050009</timecreated>
+                  <userid>20434</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>54728,54727</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="16329767">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1772050141</timecreated>
+                  <userid>20434</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="16329769">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1772050150</timecreated>
+                  <userid>20434</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="626493">
+        <userid>20220</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>845849</uniqueid>
+        <layout>1,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1777272203</timestart>
+        <timefinish>1777272215</timefinish>
+        <timemodified>1777272215</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>1.00000</sumgrades>
+        <gradednotificationsenttime>1777272215</gradednotificationsenttime>
+        <question_usage id="845849">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="3691113">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>221107</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>INFORMED CONSENT
+
+1. PURPOSE
+
+This study explores how students use STACK, an online tool for mathematics.
+We aim to learn about your expectations, motivation, and ideas for improving learning.
+
+2. WHAT YOU WILL DO
+
+You will complete a short survey (15–30 minutes).
+You may also join a focus group (45–60 minutes).
+Researchers will use _anonymized_ STACK activity and exam data.
+
+3. VOLUNTARY PARTICIPATION
+
+Participation is VOLUNTARY. You can stop at any time without penalty.
+
+4. RISKS &amp; BENEFITS
+
+Risks are minimal, and you may skip any question.
+Your feedback will help improve digital assessment in African universities.
+
+5. CONFIDENTIALITY
+
+Your responses will remain confidential. No names or personal details will appear in reports.
+
+-------------------------
+
+Please confirm if you agree or
+do not agree to take part in this study.
+
+BY SELECTING BELOW, YOU CONFIRM THAT:
+
+You have read the above information,
+you understand that participation is voluntary,
+and you may withdraw at any time without penalty.
+
+Consent to Participate:
+: I have carefully read the above information and voluntarily agree to take part in this study.; I do not agree to take part in this study.</questionsummary>
+              <rightanswer>I have carefully read the above information and voluntarily agree to take part in this study.</rightanswer>
+              <responsesummary>I have carefully read the above information and voluntarily agree to take part in this study.</responsesummary>
+              <timemodified>1777272216</timemodified>
+              <steps>
+                <step id="18182722">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1777272203</timecreated>
+                  <userid>20220</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>54727,54728</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="18182725">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1777272211</timecreated>
+                  <userid>20220</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="18182731">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1777272215</timecreated>
+                  <userid>20220</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="626817">
+        <userid>2846</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>846186</uniqueid>
+        <layout>1,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1777294447</timestart>
+        <timefinish>1777294542</timefinish>
+        <timemodified>1777294542</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>1.00000</sumgrades>
+        <gradednotificationsenttime>1777294542</gradednotificationsenttime>
+        <question_usage id="846186">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="3692968">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>221107</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>INFORMED CONSENT
+
+1. PURPOSE
+
+This study explores how students use STACK, an online tool for mathematics.
+We aim to learn about your expectations, motivation, and ideas for improving learning.
+
+2. WHAT YOU WILL DO
+
+You will complete a short survey (15–30 minutes).
+You may also join a focus group (45–60 minutes).
+Researchers will use _anonymized_ STACK activity and exam data.
+
+3. VOLUNTARY PARTICIPATION
+
+Participation is VOLUNTARY. You can stop at any time without penalty.
+
+4. RISKS &amp; BENEFITS
+
+Risks are minimal, and you may skip any question.
+Your feedback will help improve digital assessment in African universities.
+
+5. CONFIDENTIALITY
+
+Your responses will remain confidential. No names or personal details will appear in reports.
+
+-------------------------
+
+Please confirm if you agree or
+do not agree to take part in this study.
+
+BY SELECTING BELOW, YOU CONFIRM THAT:
+
+You have read the above information,
+you understand that participation is voluntary,
+and you may withdraw at any time without penalty.
+
+Consent to Participate:
+: I have carefully read the above information and voluntarily agree to take part in this study.; I do not agree to take part in this study.</questionsummary>
+              <rightanswer>I have carefully read the above information and voluntarily agree to take part in this study.</rightanswer>
+              <responsesummary>I have carefully read the above information and voluntarily agree to take part in this study.</responsesummary>
+              <timemodified>1777294542</timemodified>
+              <steps>
+                <step id="18190530">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1777294447</timecreated>
+                  <userid>2846</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>54727,54728</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="18190572">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1777294534</timecreated>
+                  <userid>2846</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="18190574">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1777294542</timecreated>
+                  <userid>2846</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="630792">
+        <userid>14486</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>850161</uniqueid>
+        <layout>1,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1777618794</timestart>
+        <timefinish>1777618863</timefinish>
+        <timemodified>1777618863</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>1.00000</sumgrades>
+        <gradednotificationsenttime>1777618863</gradednotificationsenttime>
+        <question_usage id="850161">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="3713218">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>221107</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>INFORMED CONSENT
+
+1. PURPOSE
+
+This study explores how students use STACK, an online tool for mathematics.
+We aim to learn about your expectations, motivation, and ideas for improving learning.
+
+2. WHAT YOU WILL DO
+
+You will complete a short survey (15–30 minutes).
+You may also join a focus group (45–60 minutes).
+Researchers will use _anonymized_ STACK activity and exam data.
+
+3. VOLUNTARY PARTICIPATION
+
+Participation is VOLUNTARY. You can stop at any time without penalty.
+
+4. RISKS &amp; BENEFITS
+
+Risks are minimal, and you may skip any question.
+Your feedback will help improve digital assessment in African universities.
+
+5. CONFIDENTIALITY
+
+Your responses will remain confidential. No names or personal details will appear in reports.
+
+-------------------------
+
+Please confirm if you agree or
+do not agree to take part in this study.
+
+BY SELECTING BELOW, YOU CONFIRM THAT:
+
+You have read the above information,
+you understand that participation is voluntary,
+and you may withdraw at any time without penalty.
+
+Consent to Participate:
+: I do not agree to take part in this study.; I have carefully read the above information and voluntarily agree to take part in this study.</questionsummary>
+              <rightanswer>I have carefully read the above information and voluntarily agree to take part in this study.</rightanswer>
+              <responsesummary>I have carefully read the above information and voluntarily agree to take part in this study.</responsesummary>
+              <timemodified>1777618863</timemodified>
+              <steps>
+                <step id="18275764">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1777618794</timecreated>
+                  <userid>14486</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>54728,54727</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="18275823">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1777618857</timecreated>
+                  <userid>14486</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="18275825">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1777618863</timecreated>
+                  <userid>14486</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="636042">
+        <userid>20456</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>855557</uniqueid>
+        <layout>1,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>inprogress</state>
+        <timestart>1778237096</timestart>
+        <timefinish>0</timefinish>
+        <timemodified>1778237096</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>$@NULL@$</sumgrades>
+        <gradednotificationsenttime>$@NULL@$</gradednotificationsenttime>
+        <question_usage id="855557">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="3736047">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>221107</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>INFORMED CONSENT
+
+1. PURPOSE
+
+This study explores how students use STACK, an online tool for mathematics.
+We aim to learn about your expectations, motivation, and ideas for improving learning.
+
+2. WHAT YOU WILL DO
+
+You will complete a short survey (15–30 minutes).
+You may also join a focus group (45–60 minutes).
+Researchers will use _anonymized_ STACK activity and exam data.
+
+3. VOLUNTARY PARTICIPATION
+
+Participation is VOLUNTARY. You can stop at any time without penalty.
+
+4. RISKS &amp; BENEFITS
+
+Risks are minimal, and you may skip any question.
+Your feedback will help improve digital assessment in African universities.
+
+5. CONFIDENTIALITY
+
+Your responses will remain confidential. No names or personal details will appear in reports.
+
+-------------------------
+
+Please confirm if you agree or
+do not agree to take part in this study.
+
+BY SELECTING BELOW, YOU CONFIRM THAT:
+
+You have read the above information,
+you understand that participation is voluntary,
+and you may withdraw at any time without penalty.
+
+Consent to Participate:
+: I do not agree to take part in this study.; I have carefully read the above information and voluntarily agree to take part in this study.</questionsummary>
+              <rightanswer>I have carefully read the above information and voluntarily agree to take part in this study.</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1778237096</timemodified>
+              <steps>
+                <step id="18377423">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1778237096</timecreated>
+                  <userid>20456</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>54728,54727</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="637760">
+        <userid>20349</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>857805</uniqueid>
+        <layout>1,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>inprogress</state>
+        <timestart>1779987160</timestart>
+        <timefinish>0</timefinish>
+        <timemodified>1779987160</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>$@NULL@$</sumgrades>
+        <gradednotificationsenttime>$@NULL@$</gradednotificationsenttime>
+        <question_usage id="857805">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="3745917">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>221107</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>INFORMED CONSENT
+
+1. PURPOSE
+
+This study explores how students use STACK, an online tool for mathematics.
+We aim to learn about your expectations, motivation, and ideas for improving learning.
+
+2. WHAT YOU WILL DO
+
+You will complete a short survey (15–30 minutes).
+You may also join a focus group (45–60 minutes).
+Researchers will use _anonymized_ STACK activity and exam data.
+
+3. VOLUNTARY PARTICIPATION
+
+Participation is VOLUNTARY. You can stop at any time without penalty.
+
+4. RISKS &amp; BENEFITS
+
+Risks are minimal, and you may skip any question.
+Your feedback will help improve digital assessment in African universities.
+
+5. CONFIDENTIALITY
+
+Your responses will remain confidential. No names or personal details will appear in reports.
+
+-------------------------
+
+Please confirm if you agree or
+do not agree to take part in this study.
+
+BY SELECTING BELOW, YOU CONFIRM THAT:
+
+You have read the above information,
+you understand that participation is voluntary,
+and you may withdraw at any time without penalty.
+
+Consent to Participate:
+: I have carefully read the above information and voluntarily agree to take part in this study.; I do not agree to take part in this study.</questionsummary>
+              <rightanswer>I have carefully read the above information and voluntarily agree to take part in this study.</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1779987160</timemodified>
+              <steps>
+                <step id="18410259">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1779987160</timecreated>
+                  <userid>20349</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>54727,54728</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+    </attempts>
+  </quiz>
+</activity>
