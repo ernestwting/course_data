@@ -1,0 +1,88 @@
+moduleid,modulename,title,sectionid,directory,quiz_userinfo
+17872,forum,ANNOUNCEMENTS,5700,activities/forum_17872,
+21839,quiz,Informed Consent Form,6736,activities/quiz_21839,1
+21840,feedback,Student Survey,6736,activities/feedback_21840,
+21841,feedback,Final Step Here,6736,activities/feedback_21841,
+17874,label,Weekly QuizzesEvery week there will be two types o...,5701,activities/label_17874,
+17875,label,Introduction to typing answers in STACKIn this cou...,5701,activities/label_17875,
+17876,page,How to type answers in STACK,5701,activities/page_17876,
+17877,quiz,Quiz 0: Typing STACK Answers,5701,activities/quiz_17877,1
+17878,resource,Course Outline,5702,activities/resource_17878,
+17879,resource,Integration Techniques 1,5702,activities/resource_17879,
+17880,url,Online Resources on Integrations,5702,activities/url_17880,
+17881,resource,Integration Techniques 2,5703,activities/resource_17881,
+17882,resource,Integration Techniques 3,5703,activities/resource_17882,
+17883,resource,Integration Techniques 4,5703,activities/resource_17883,
+17885,resource,Improper Integrals,5703,activities/resource_17885,
+17884,quiz,Tutorial 1A - Integration Techniques,5704,activities/quiz_17884,1
+17886,quiz,Tutorial 1B - Integration Techniques,5704,activities/quiz_17886,1
+17887,quiz,Tutorial 1C - Integration Techniques,5704,activities/quiz_17887,1
+17888,quiz,Quiz 1: Integration Techniques,5704,activities/quiz_17888,1
+17890,resource,Applications of Integrations,5704,activities/resource_17890,
+17891,quiz,Tutorial 2A - Improper Integrals & Fundamental Theorem of Calculus,5704,activities/quiz_17891,1
+17892,quiz,Tutorial 2B - Improper Integrals & Fundamental Theorem of Calculus,5704,activities/quiz_17892,1
+17895,quiz,Quiz 2: Improper Integrals and FTC,5705,activities/quiz_17895,1
+17893,resource,Introducton to Ordinary Differential Equations,5705,activities/resource_17893,
+17889,url,Online Resources on Differential Equations,5705,activities/url_17889,
+17898,quiz,Tutorial 3A - Applications of Integrations,5705,activities/quiz_17898,1
+17899,quiz,Tutorial 3B - Applications of Integrations,5705,activities/quiz_17899,1
+17894,resource,Exact DE and Integrating Factor,5705,activities/resource_17894,
+17896,resource,Linear First Order and Bernoulli Equations,5705,activities/resource_17896,
+17902,quiz,Quiz 3: Applications of Integrations,5706,activities/quiz_17902,1
+17897,resource,Applications of First Order ODEs,5706,activities/resource_17897,
+17904,resource,Basic Theory of Linear ODEs,5706,activities/resource_17904,
+17900,quiz,Tutorial 4A - Introduction to Differential Equations and First Order DEs,5706,activities/quiz_17900,1
+17901,quiz,Tutorial 4B - Introduction to Differential Equations and First Order DEs,5706,activities/quiz_17901,1
+17905,resource,Linear DE with Constant Coefficinets,5706,activities/resource_17905,
+17903,quiz,Quiz 4: Ordinary Differential Equations Basics,5707,activities/quiz_17903,1
+17906,resource,Method of Undetermined Coefficients 1/2,5707,activities/resource_17906,
+17907,resource,Method of Undetermined Coefficients 2/2,5707,activities/resource_17907,
+17908,quiz,Tutorial 5A - Undetermined Coefficients Functions,5707,activities/quiz_17908,1
+17909,quiz,Tutorial 5B - Non-homogeneous DEs - Undetermined Coefficients,5707,activities/quiz_17909,1
+17910,quiz,Quiz 5: Method of Undetermined Coefficients,5708,activities/quiz_17910,1
+17911,resource,Variation of Parameters,5708,activities/resource_17911,
+17912,quiz,Tutorial 6A - Non-homogeneous DEs - Variation of Parameters,5708,activities/quiz_17912,1
+17913,quiz,Tutorial 6B - Non-homogeneous DEs - Variation of Parameters,5708,activities/quiz_17913,1
+17915,quiz,Quiz 6: Variation of Parameters,5708,activities/quiz_17915,1
+18390,label,Cauch-Euler Differential Equations and Order Reduction Method,5708,activities/label_18390,
+17916,quiz,Tutorial 7A - Cauchy-Euler Differential Equations and Order Reduction Method,5708,activities/quiz_17916,1
+17917,quiz,Tutorial 7B - Cauchy-Euler Differential Equations and Order Reduction Method,5708,activities/quiz_17917,1
+17914,resource,Power Series Method,5708,activities/resource_17914,
+17922,quiz,Tutorial 8A - Power Series Methods,5708,activities/quiz_17922,1
+17921,quiz,Tutorial 8B - Frobenius Methods,5708,activities/quiz_17921,1
+17919,resource,Frobenius Method,5709,activities/resource_17919,
+17918,quiz,Quiz 7: Cauchy-Euler and Order Reduction,5709,activities/quiz_17918,1
+17920,resource,Bessel Differential Equations and Functions - SELF STUDY,5710,activities/resource_17920,
+17923,quiz,Quiz 8: Power Series and Frobenius Methods,5710,activities/quiz_17923,1
+17924,resource,Non-Linear Equation Methods,5710,activities/resource_17924,
+17925,resource,Bisection Method - SELF STUDIES,5710,activities/resource_17925,
+17926,resource,Numerical Derivatives,5710,activities/resource_17926,
+17927,quiz,Tutorial 9A - Non-Linear Equations,5710,activities/quiz_17927,1
+17928,quiz,Tutorial 9B - Non-Linear Equations,5710,activities/quiz_17928,1
+17929,quiz,Quiz 9: Non-Linear Equations,5711,activities/quiz_17929,1
+17930,resource,Numerical Integrations,5711,activities/resource_17930,
+17932,resource,Numerical solution to odes,5711,activities/resource_17932,
+17933,quiz,Tutorial 10A - Numerical Differentiation and Numerical Integrations,5711,activities/quiz_17933,1
+17934,quiz,Tutorial 10B - Numerical Differentiation and Numerical Integrations,5711,activities/quiz_17934,1
+17936,resource,Runge-Kutta of Order 4,5711,activities/resource_17936,
+17935,quiz,Quiz 10: Numerical Integrations and Numerical Differentiations,5712,activities/quiz_17935,1
+17940,resource,Taylor's Theorem,5712,activities/resource_17940,
+17937,quiz,Tutorial 11A - Numerical odes and Taylor's Theorem,5712,activities/quiz_17937,1
+17938,quiz,Tutorial 11B - Numerical odes and Taylor's Theorem,5712,activities/quiz_17938,1
+17941,resource,Infinite Series,5712,activities/resource_17941,
+17939,quiz,Quiz 11: Numerical odes and Taylor's Theorem,5713,activities/quiz_17939,1
+17942,resource,Power Series,5713,activities/resource_17942,
+17943,quiz,Tutorial 12A - Infinite Series and Power Series,5713,activities/quiz_17943,1
+17944,quiz,Tutorial 12B - Infinite Series and Power Series,5713,activities/quiz_17944,1
+17945,quiz,Quiz 12: Infinite Series and Power Series,5713,activities/quiz_17945,1
+17946,resource,Fourier Series,5713,activities/resource_17946,
+17947,resource,Fourier Series for General Periods,5713,activities/resource_17947,
+17948,resource,Half Range Expansions,5714,activities/resource_17948,
+17949,resource,Numerical Method for Fourier Series - SELF STUDY,5714,activities/resource_17949,
+17950,quiz,Tutorial 13A - Fourier Series,5714,activities/quiz_17950,1
+17951,quiz,Tutorial 13B - Fourier Series,5714,activities/quiz_17951,1
+17952,quiz,Quiz 13: Fourier Series,5714,activities/quiz_17952,1
+17954,label,"Test 2 is scheduled for Sunday 23rd June, 2024 at...",5714,activities/label_17954,
+17953,quiz,Quiz 14: Makeup Quiz (Optional),5715,activities/quiz_17953,1
+17955,quiz,TEST 1  REFLECTION,5715,activities/quiz_17955,1
+17956,quiz,TEST 2  REFLECTION,5715,activities/quiz_17956,1

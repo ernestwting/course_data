@@ -1,0 +1,381 @@
+question_id,name,category,qtype
+202733,Q0_Instructions_1,Tutorial 00 - Syntax Practice,description
+202734,Q0_Instructions_2,Tutorial 00 - Syntax Practice,description
+202735,Q0_Instructions_3,Tutorial 00 - Syntax Practice,description
+202736,Q0_Syntax-Equation,Tutorial 00 - Syntax Practice,stack
+202737,Q0_Syntax-equiv,Tutorial 00 - Syntax Practice,stack
+202738,Q0_Syntax-Exponentials,Tutorial 00 - Syntax Practice,stack
+202739,Q0_Syntax-floating-point,Tutorial 00 - Syntax Practice,stack
+202740,Q0_Syntax-inequalities,Tutorial 00 - Syntax Practice,stack
+202741,Q0_Syntax-Logarithms,Tutorial 00 - Syntax Practice,stack
+202742,Q0_Syntax-Polynomials,Tutorial 00 - Syntax Practice,stack
+202743,Q0_Syntax-Rational-Expression,Tutorial 00 - Syntax Practice,stack
+202744,Q0_Syntax-Sets-Lists,Tutorial 00 - Syntax Practice,stack
+202745,Q0_Syntax-trigonometry,Tutorial 00 - Syntax Practice,stack
+202746,T1_Diverging int kind2_IA_eCampus,Tutorial 01 - Integration Techniques,stack
+202747,T1_Int by part_IA_eCampus,Tutorial 01 - Integration Techniques,stack
+202748,T1_Int by t sub to atan_DZ_eCampus,Tutorial 01 - Integration Techniques,stack
+202749,T1_int double angle trig sub_IA_eCampus,Tutorial 01 - Integration Techniques,stack
+202750,T1_Int exp fun sub_IA_eCampus,Tutorial 01 - Integration Techniques,stack
+202751,T1_Int odd fun to zero_IJ_eCampus,Tutorial 01 - Integration Techniques,stack
+202752,T1_Int odd fun trig sub_IJ_eCampus,Tutorial 01 - Integration Techniques,stack
+202753,T1_Int split interval_IA_eCampus,Tutorial 01 - Integration Techniques,stack
+202754,T1_Int sqrt sub_DZ_eCampus,Tutorial 01 - Integration Techniques,stack
+202755,T1_Int trig sqrt fun_ANS_IA_eCampus,Tutorial 01 - Integration Techniques,stack
+202756,T1_Int trig sub_DZ_eCampus,Tutorial 01 - Integration Techniques,stack
+202757,T1_Int trig subs_IJ_eCampus,Tutorial 01 - Integration Techniques,stack
+202758,T1_Riemman sum quad fun_IA_eCampus,Tutorial 01 - Integration Techniques,stack
+202759,T1_int general sub_IA_eCampus,Tutorial 01 - Integration Techniques,stack
+202760,Q1_Int by t sub to 3variants_IA,QUIZZES,stack
+202761,Q1_Int by t sub to 3variants_IA_eCampus,Quiz 01 - Integrations Techniques,stack
+202769,Q1_Riemman sum quad fun_IA_eCampus,Quiz 01 - Integrations Techniques,stack
+202770,Q1_Int by t sub to 3variants_IA_eCampus (copy),Quiz 01 - Integrations Techniques,stack
+202781,T2_Theorems_IA,Tutorial 02 - Improper Integrals and Fundamental Theorem of Calculus,description
+202782,T2_covergence IBP_DZ,Tutorial 02 - Improper Integrals and Fundamental Theorem of Calculus,stack
+202783,T2_Improper convergent int by sub_DZ,Tutorial 02 - Improper Integrals and Fundamental Theorem of Calculus,stack
+202784,T2_Improper int by direct sub_DZ,Tutorial 02 - Improper Integrals and Fundamental Theorem of Calculus,stack
+202785,T2_improper int type 1 and 2_DZ,Tutorial 02 - Improper Integrals and Fundamental Theorem of Calculus,stack
+202786,T2_Int FTC2 _ pow lim_IJ,Tutorial 02 - Improper Integrals and Fundamental Theorem of Calculus,stack
+202787,T2_Int FTC2 _IJ,Tutorial 02 - Improper Integrals and Fundamental Theorem of Calculus,stack
+202788,T2_Int FTC2 in_IJ,Tutorial 02 - Improper Integrals and Fundamental Theorem of Calculus,stack
+202789,T2_Int prf convg to pi_IJ,Tutorial 02 - Improper Integrals and Fundamental Theorem of Calculus,stack
+202790,T2_Int show divergent_IJ,Tutorial 02 - Improper Integrals and Fundamental Theorem of Calculus,stack
+202791,T3_centroid Definition_IA,Tutorial 03 - Applications of Integrations,description
+202792,T3_area between P3 and P2_IA,Tutorial 03 - Applications of Integrations,stack
+202793,T3_area btn line and y^2=ax+b meet at x-axis_IA,Tutorial 03 - Applications of Integrations,stack
+202794,T3_area btn line and y^2=ax+b meet elsewhere_IA,Tutorial 03 - Applications of Integrations,stack
+202795,T3_area btn line and y=ax^2+bx+c_IA,Tutorial 03 - Applications of Integrations,stack
+202796,T3_area btn two P2 and a line_IA,Tutorial 03 - Applications of Integrations,stack
+202797,T3_area of triangle_IA,Tutorial 03 - Applications of Integrations,stack
+202798,T3_centroid of region btn 2 curves_IA,Tutorial 03 - Applications of Integrations,stack
+202799,T3_centroid of right < triangle_IA,Tutorial 03 - Applications of Integrations,stack
+202800,T3_centroid of sqrt fun and verical_IA,Tutorial 03 - Applications of Integrations,stack
+202801,T3_length of a parametric curve_IA,Tutorial 03 - Applications of Integrations,stack
+202802,T3_Work done_DZ,Tutorial 03 - Applications of Integrations,stack
+202803,T3_length of a curve_DZ_IA,Tutorial 03 - Applications of Integrations,stack
+202805,Q2_Int FTC2 _ pow lim_IJ2IA,Quiz 02 - Improper Integrals and FTC,stack
+202806,Q2_Int prf convg to pi_IJ2IA,Random Q2,stack
+202807,Q2_covergence IBP_DZ2IA,Random Q2,stack
+202808,Q2_improper int type 1 and 2_DZ2IA,Random Q2,stack
+202810,Random (Random Q2),Random Q2,random
+202811,T4_Application of Linear DE with IF_IA,Tutorial 04 - Introduction to Ordinary Differential Equations,stack
+202812,T4_Bernoulli DE_IA,Tutorial 04 - Introduction to Ordinary Differential Equations,stack
+202813,T4_classification of odes_IA,Tutorial 04 - Introduction to Ordinary Differential Equations,stack
+202814,T4_exact DE_IA,Tutorial 04 - Introduction to Ordinary Differential Equations,stack
+202815,T4_homogeneous order 1 DE_IA,Tutorial 04 - Introduction to Ordinary Differential Equations,stack
+202816,T4_Newtons Cooling_IA,Tutorial 04 - Introduction to Ordinary Differential Equations,stack
+202817,T4_proof sum of solutions_IA,Tutorial 04 - Introduction to Ordinary Differential Equations,stack
+202818,T4_separable DE_IA,Tutorial 04 - Introduction to Ordinary Differential Equations,stack
+202819,T4_Basic Information on DE_IA,Tutorial 04 - Introduction to Ordinary Differential Equations,description
+202820,Q3_length of a curve_IA,Quiz 03 - Applications of Integrations,stack
+202821,Q3_area btn line and y^2=ax+b meet at x-axis_IA,areas btn curves,stack
+202822,Q3_area btn line and y^2=ax+b meet elsewhere_IA,areas btn curves,stack
+202823,Q3_area of triangle_IA,areas btn curves,stack
+202824,Random (areas btn curves),areas btn curves,random
+202825,Q3_centroid of region btn 2 curves_IA,centroid btn curves,stack
+202826,Q3_centroid of right < triangle_IA,centroid btn curves,stack
+202827,Q3_centroid of sqrt fun and verical_IA,centroid btn curves,stack
+202828,Random (centroid btn curves),centroid btn curves,random
+202829,Q4_Application of Linear DE with IF_IA,Quiz 04 - Ordinary Differential Equations Basics,stack
+202830,Q4_Bernoulli DE_IA,Quiz 04 - Ordinary Differential Equations Basics,stack
+202831,Q4_exact DE_IA,Quiz 04 - Ordinary Differential Equations Basics,stack
+202837,Q4_Newtons Cooling_IA,Quiz 04 - Ordinary Differential Equations Basics,stack
+202838,Q4_separable DE_IA,Quiz 04 - Ordinary Differential Equations Basics,stack
+202839,Random (Quiz 04 - Ordinary Differential Equations Basics),Quiz 04 - Ordinary Differential Equations Basics,random
+202840,Random (Quiz 04 - Ordinary Differential Equations Basics),Quiz 04 - Ordinary Differential Equations Basics,random
+202841,Q4_proof sum of solutions_IA,Quiz 04 - Ordinary Differential Equations Basics,stack
+202842,Q5_2nd order ode UC_IVP_two exp terms F(x)_IA,Quiz 05 - Undetermined Coefficients,stack
+202843,Q5_2nd order ode UC_IVP_two trig terms F(x)_IA,Quiz 05 - Undetermined Coefficients,stack
+202844,Q5_2nd order UC_IVP_ode_repeated roots exp_IA,Quiz 05 - Undetermined Coefficients,stack
+202845,Q5_UC set contain homo_soln1_exp_IA,Quiz 05 - Undetermined Coefficients,stack
+202846,Q5_UC set contain homo_soln1_trig_IA,Quiz 05 - Undetermined Coefficients,stack
+202847,Q5_UC set contain homo_soln2_exp_IA,Quiz 05 - Undetermined Coefficients,stack
+202848,Q5_UC set contain homo_soln2_trig_IA,Quiz 05 - Undetermined Coefficients,stack
+202849,Q5_UC set contain no homo_soln_exp_IA,Quiz 05 - Undetermined Coefficients,stack
+202850,Q5_UC set contain no homo_soln_trig_IA,Quiz 05 - Undetermined Coefficients,stack
+202851,Q5_UC set homo_repeated root1_exp_IA,Quiz 05 - Undetermined Coefficients,stack
+202852,Q5_UC set homo_repeated root2_exp_IA,Quiz 05 - Undetermined Coefficients,stack
+202853,Random (Quiz 05 - Undetermined Coefficients),Quiz 05 - Undetermined Coefficients,random
+202854,Random (Quiz 05 - Undetermined Coefficients),Quiz 05 - Undetermined Coefficients,random
+202855,Random (Quiz 05 - Undetermined Coefficients),Quiz 05 - Undetermined Coefficients,random
+202856,Random (Quiz 05 - Undetermined Coefficients),Quiz 05 - Undetermined Coefficients,random
+202857,Q5_UC set contain homo_soln1_trig_IAwithYp,Quiz 05 - Undetermined Coefficients,stack
+202865,T6_VP_exp_sqrt_F(x)_distinct_roots_IA,Tutorial 06 - Variation of Parameters,stack
+202866,T6_VP_exp_sqrt_F(x)_repeated roots_IA,Tutorial 06 - Variation of Parameters,stack
+202867,T6_VP_trig_F(x)_complex_roots_IA,Tutorial 06 - Variation of Parameters,stack
+202868,T6_VP_trig_F(x)_variable coef_IVP1_IA,Tutorial 06 - Variation of Parameters,stack
+202869,T6_VP_trig_F(x)_variable coef_IVP2_IA,Tutorial 06 - Variation of Parameters,stack
+202870,T6_VP_trig_F(x)_variable coeffs_IA,Tutorial 06 - Variation of Parameters,stack
+202871,T6_VP_trig_F(x)_variable coeffs2_IA,Tutorial 06 - Variation of Parameters,stack
+202872,T6_VP_trig_F(x)_variable coeffs3_IA,Tutorial 06 - Variation of Parameters,stack
+202873,Random (Tutorial 06 - Variation of Parameters),Tutorial 06 - Variation of Parameters,random
+202874,Random (Tutorial 06 - Variation of Parameters),Tutorial 06 - Variation of Parameters,random
+202875,Random (Tutorial 06 - Variation of Parameters),Tutorial 06 - Variation of Parameters,random
+202876,EulerWithErrors_ClassicTutorial_9Q1,OTHERS,stack
+202877,EulerWithErrors_ClassicTutorial_9_Q3,OTHERS,stack
+202878,Q5_2nd order ode UC_IVP_two exp terms F(x)_IA_dev,OTHERS,stack
+202879,Q5_2nd order ode UC_IVP_two exp terms F(x)_IA_newSTACK,OTHERS,stack
+202880,Q5_2nd order ode UC_IVP_two trig terms F(x)_IAnewSTACK,OTHERS,stack
+202881,Q5_2nd order UC_IVP_ode_repeated roots exp_IAnewSTACK,OTHERS,stack
+202882,RK4_ClassicTutorial_9Q2,OTHERS,stack
+202883,STACK plot templates 1,OTHERS,stack
+202884,STACK plot templates 2,OTHERS,stack
+202885,T8_PowerSeries_IA,OTHERS,stack
+202886,test ATEqualComAss,OTHERS,stack
+202887,test 2 fields marking,OTHERS,stack
+202888,test 2 fields marking_Onetree,OTHERS,stack
+202890,question_1,OTHERS,stack
+202907,question_2,OTHERS,stack
+202908,test log variants,OTHERS,stack
+202915,T7_Cauchy Euler DE UC_IA,Tutorial 07 - Cauchy Euler DEs and Order Reduction,stack
+202916,T7_Cauchy Euler DE VP_IA,Tutorial 07 - Cauchy Euler DEs and Order Reduction,stack
+202917,T7_Basic Information_IA,Tutorial 07 - Cauchy Euler DEs and Order Reduction,description
+202918,T7_Cauchy Euler DE distinct roots_UC_IA,Tutorial 07 - Cauchy Euler DEs and Order Reduction,stack
+202919,T7_Cauchy Euler DE distinct roots_VP_IA,Tutorial 07 - Cauchy Euler DEs and Order Reduction,stack
+202920,T7_CEHomoDE(ax+b)powersDistRoots_IA,Tutorial 07 - Cauchy Euler DEs and Order Reduction,stack
+202921,T7_OrderReductionHomo_IA,Tutorial 07 - Cauchy Euler DEs and Order Reduction,stack
+202922,T7_OrderReductionHomo2_IA,Tutorial 07 - Cauchy Euler DEs and Order Reduction,stack
+202923,Random (Tutorial 07 - Cauchy Euler DEs and Order Reduction),Tutorial 07 - Cauchy Euler DEs and Order Reduction,random
+202924,Random (Tutorial 07 - Cauchy Euler DEs and Order Reduction),Tutorial 07 - Cauchy Euler DEs and Order Reduction,random
+202925,Random (Tutorial 07 - Cauchy Euler DEs and Order Reduction),Tutorial 07 - Cauchy Euler DEs and Order Reduction,random
+202926,T7_Basic Information_CE_IA,Tutorial 07 - Cauchy Euler DEs and Order Reduction,description
+202927,Q7_Cauchy Euler DE distinct roots_UC_ivp_IA,Quiz 07 - Cauchy Euler DEs and Order Reduction,stack
+202928,Q7_Cauchy Euler DE distinct roots_VP_IVP_IA,Quiz 07 - Cauchy Euler DEs and Order Reduction,stack
+202929,Q7_Cauchy Euler DE UC_VC_IA,Quiz 07 - Cauchy Euler DEs and Order Reduction,stack
+202931,Q7_CEHomoDE(ax+b)powersDistRoots_ivp_IA,Quiz 07 - Cauchy Euler DEs and Order Reduction,stack
+202932,Q7_OrderReductionHomo_IA,Quiz 07 - Cauchy Euler DEs and Order Reduction,stack
+202933,Q7_OrderReductionHomo2_IA,Quiz 07 - Cauchy Euler DEs and Order Reduction,stack
+202934,Random (Quiz 07 - Cauchy Euler DEs and Order Reduction),Quiz 07 - Cauchy Euler DEs and Order Reduction,random
+202935,Random (Quiz 07 - Cauchy Euler DEs and Order Reduction),Quiz 07 - Cauchy Euler DEs and Order Reduction,random
+202936,Q6_VP_exp_sqrt_F(x)_distinct_roots_IA,Quiz 06 - Variation of Parameters,stack
+202937,Q6_VP_exp_sqrt_F(x)_repeated roots_IA,Quiz 06 - Variation of Parameters,stack
+202938,Q6_VP_trig_F(x)_complex_roots_IA,Quiz 06 - Variation of Parameters,stack
+202939,Q6_VP_trig_F(x)_complex_roots_IVP1_IA,Quiz 06 - Variation of Parameters,stack
+202940,Q6_VP_trig_F(x)_variable coef_IVP2_IA,Quiz 06 - Variation of Parameters,stack
+202941,Q6_VP_trig_F(x)_variable coeffs_IA,Quiz 06 - Variation of Parameters,stack
+202942,Q6_VP_trig_F(x)_variable coeffs2_IA,Quiz 06 - Variation of Parameters,stack
+202943,Q6_VP_trig_F(x)_variable coeffs3_IA,Quiz 06 - Variation of Parameters,stack
+202944,Random (Quiz 06 - Variation of Parameters),Quiz 06 - Variation of Parameters,random
+202945,Random (Quiz 06 - Variation of Parameters),Quiz 06 - Variation of Parameters,random
+202946,Random (Quiz 06 - Variation of Parameters),Quiz 06 - Variation of Parameters,random
+202947,T9_Babylonian Square Roots_IA,Tutorial 09 - Non-Linear Equations,stack
+202948,T9_Iterative Linear System_IA,Tutorial 09 - Non-Linear Equations,stack
+202949,T9_Ranking Iteration Formula_IA,Tutorial 09 - Non-Linear Equations,stack
+202950,T9_Falling Object Equation_IA,Tutorial 09 - Non-Linear Equations,stack
+202951,T9_Estimating PI Using Unit Circle_IA,Tutorial 09 - Non-Linear Equations,stack
+202952,T9_Newton Method_IA,Tutorial 09 - Non-Linear Equations,stack
+202953,T9_Combined Methods Comparison_IA,Tutorial 09 - Non-Linear Equations,stack
+202955,T9_Cube Root by Newton R_IA,Tutorial 09 - Non-Linear Equations,stack
+202956,T9_Reciprocal with Newton Method_IA,Tutorial 09 - Non-Linear Equations,stack
+202957,Information,Tutorial 08 - Power Series and Frobenius Methods,description
+202958,T8_Bessel_Frobenius_IA,Tutorial 08 - Power Series and Frobenius Methods,stack
+202959,T8_FrobeniusMethodVar1_IA,Tutorial 08 - Power Series and Frobenius Methods,stack
+202966,T8_Legendre_DEvar1_IA,Tutorial 08 - Power Series and Frobenius Methods,stack
+202967,T8_PowSeriesReg_IVPvar1_IA,Tutorial 08 - Power Series and Frobenius Methods,stack
+203005,T8_PowSeriesRegPr1var1_IA,Tutorial 08 - Power Series and Frobenius Methods,stack
+203006,T8_PowSeriesRegPr2var1_IA,Tutorial 08 - Power Series and Frobenius Methods,stack
+203007,Random (Tutorial 08 - Power Series and Frobenius Methods),Tutorial 08 - Power Series and Frobenius Methods,random
+203008,Q9_Bisection Method_IA,Quiz 09 - Non-Linear Equations and Interpolation,stack
+203009,Q9_Secant Method_IA,Quiz 09 - Non-Linear Equations and Interpolation,stack
+203010,Q9_Regula Falsi_IA,Quiz 09 - Non-Linear Equations and Interpolation,stack
+203011,Q9_Newton Method_IA,Quiz 09 - Non-Linear Equations and Interpolation,stack
+203012,Q9_Lagrange Polynomial_IA,Quiz 09 - Non-Linear Equations and Interpolation,stack
+203013,Random (Quiz 09 - Non-Linear Equations and Interpolation),Quiz 09 - Non-Linear Equations and Interpolation,random
+203014,Random (Quiz 09 - Non-Linear Equations and Interpolation),Quiz 09 - Non-Linear Equations and Interpolation,random
+203015,T10_BasicSimpRule_IA,Tutorial 10 - Numerical Integration and Differentiation,stack
+203016,T10_BasicTrapRule_IA,Tutorial 10 - Numerical Integration and Differentiation,stack
+203017,T10_CompTR_SR_noSTEPS_IA,Tutorial 10 - Numerical Integration and Differentiation,stack
+203018,T10_CSR_StepsMarking_IA,Tutorial 10 - Numerical Integration and Differentiation,stack
+203019,T10_CTR_StepsMarking_IA,Tutorial 10 - Numerical Integration and Differentiation,stack
+203020,T10_NumDiff_3points_electrical_IA,Tutorial 10 - Numerical Integration and Differentiation,stack
+203021,T10_NumDiff_3points_IA,Tutorial 10 - Numerical Integration and Differentiation,stack
+203022,T10_CTR_errorAnalysis_IA,Tutorial 10 - Numerical Integration and Differentiation,stack
+203023,T10_CSR_errorAnalysis_IA,Tutorial 10 - Numerical Integration and Differentiation,stack
+203024,"Random (Tutorial 10 - Numerical Integration and Differentiation, tags: basicint)",Tutorial 10 - Numerical Integration and Differentiation,random
+203025,"Random (Tutorial 10 - Numerical Integration and Differentiation, tags: stepsmarkint)",Tutorial 10 - Numerical Integration and Differentiation,random
+203026,"Random (Tutorial 10 - Numerical Integration and Differentiation, tags: bounderrorint)",Tutorial 10 - Numerical Integration and Differentiation,random
+203027,T10_NumDiff_5points_IA,Tutorial 10 - Numerical Integration and Differentiation,stack
+203028,"Random (Tutorial 10 - Numerical Integration and Differentiation, tags: numdiff)",Tutorial 10 - Numerical Integration and Differentiation,random
+203029,T10_EulerM_5iter_TrigIA,Tutorial 11 - Numerical odes and Taylor's Theorem,stack
+203030,T10_EulerWithInterpol_IA,Tutorial 11 - Numerical odes and Taylor's Theorem,stack
+203031,T10_ModifiedEuler_IA,Tutorial 11 - Numerical odes and Taylor's Theorem,stack
+203032,T10_MoEuler_5points_Rational_IA,Tutorial 11 - Numerical odes and Taylor's Theorem,stack
+203033,T10_MoEulerWithErrors_5points_IA,Tutorial 11 - Numerical odes and Taylor's Theorem,stack
+203034,T10_PolyConstFromFunInfo_IA,Tutorial 11 - Numerical odes and Taylor's Theorem,stack
+203035,T10_RK4_IA,Tutorial 11 - Numerical odes and Taylor's Theorem,stack
+203036,T10_TalylorApproxTrigFuns_IA,Tutorial 11 - Numerical odes and Taylor's Theorem,stack
+203037,T10_TaylorErrorBound_IA,Tutorial 11 - Numerical odes and Taylor's Theorem,stack
+203038,"Random (Tutorial 11 - Numerical odes and Taylor's Theorem, tags: taylor_opt)",Tutorial 11 - Numerical odes and Taylor's Theorem,random
+203039,"Random (Tutorial 11 - Numerical odes and Taylor's Theorem, tags: numode_opt)",Tutorial 11 - Numerical odes and Taylor's Theorem,random
+203040,Q11_EulerMethod-IA,Quiz 11 - Numerical odes and Taylor's Theorem,stack
+203041,Q11_Mod_EulerWithInterpol_IA,Quiz 11 - Numerical odes and Taylor's Theorem,stack
+203042,Q11_MoEuler_NpointsRational_IA,Quiz 11 - Numerical odes and Taylor's Theorem,stack
+203043,Q11_MoEulerWithErrors_Npoints_IA,Quiz 11 - Numerical odes and Taylor's Theorem,stack
+203044,Q11_RK4withInterpol_IA,Quiz 11 - Numerical odes and Taylor's Theorem,stack
+203045,Q11_TaylorApproxIntegration_IA,Quiz 11 - Numerical odes and Taylor's Theorem,stack
+203046,"Random (Quiz 11 - Numerical odes and Taylor's Theorem, tags: q11_opt)",Quiz 11 - Numerical odes and Taylor's Theorem,random
+203047,Q08_FrobeniusMethodVar1_IA,Quiz 08 - Power and Frobenius Methods,stack
+203049,Q08_PowerSeriesOrdinary_IA,Quiz 08 - Power and Frobenius Methods,stack
+203052,Q10_CSR_StepsMarking_IA,Quiz 10 - Numerical Integration and Numerical Differentiation,stack
+203053,Q10_CTR_StepsMarking_IA,Quiz 10 - Numerical Integration and Numerical Differentiation,stack
+203054,Q10_Numerical Differentiation_IA,Quiz 10 - Numerical Integration and Numerical Differentiation,stack
+203068,Q10_Rectangular rule_IA,Quiz 10 - Numerical Integration and Numerical Differentiation,stack
+203069,"Random (Quiz 10 - Numerical Integration and Numerical Differentiation, tags: q10_opt)",Quiz 10 - Numerical Integration and Numerical Differentiation,random
+203070,T12_info STACK writings,Tutorial 12 - Infinite Series and Power Series,description
+203073,T12_AbsoConvTest_converge_IA,Tutorial 12 - Infinite Series and Power Series,stack
+203074,T12_IntegralTest_converge_IA,Tutorial 12 - Infinite Series and Power Series,stack
+203075,T12_IntegralTest_diverge_IA-DEV,Tutorial 12 - Infinite Series and Power Series,stack
+203076,T12_PowerSeriesDiff_IA,Tutorial 12 - Infinite Series and Power Series,stack
+203077,T12_RadConvAbsConv1_IA,Tutorial 12 - Infinite Series and Power Series,stack
+203078,T12_RadConvAbsConv2_IA,Tutorial 12 - Infinite Series and Power Series,stack
+203079,T12_RadConvRootTest_IA,Tutorial 12 - Infinite Series and Power Series,stack
+203080,T12_RatioTest_converge_IA,Tutorial 12 - Infinite Series and Power Series,stack
+203081,T12_SumOfGeometric_converge_IA,Tutorial 12 - Infinite Series and Power Series,stack
+203082,Q12_Divergence testQ1,Quiz 12 - Infinite Series and Power Series,multichoice
+203083,Q12_Divergence testQ2,Quiz 12 - Infinite Series and Power Series,multichoice
+203084,Q12_Divergence testQ3,Quiz 12 - Infinite Series and Power Series,multichoice
+203085,Q12_Divergence testQ4,Quiz 12 - Infinite Series and Power Series,multichoice
+203086,Q12_Divergence testQ5,Quiz 12 - Infinite Series and Power Series,multichoice
+203087,Q12_Divergence testQ6,Quiz 12 - Infinite Series and Power Series,multichoice
+203088,Q12_Divergence testQ7,Quiz 12 - Infinite Series and Power Series,multichoice
+203089,Q12_Divergence testQ8,Quiz 12 - Infinite Series and Power Series,multichoice
+203090,Q12_Divergence testQ9,Quiz 12 - Infinite Series and Power Series,multichoice
+203091,Q12_Convergence tests_IA,Quiz 12 - Infinite Series and Power Series,stack
+203092,Q12_DomainOfSeries_IA,Quiz 12 - Infinite Series and Power Series,stack
+203093,Q12_RatioTest_diverge_IA,Quiz 12 - Infinite Series and Power Series,stack
+203094,T13_FouerieSeriesPR1_DZ,Tutorial 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203096,T13_FouerieSeriesPR2_DZ,Tutorial 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203098,T13_FouerieSeriesPR3_DZ,Tutorial 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203100,T13_FouerieSeriesPR4cos_DZ,Tutorial 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203102,T13_FouerieSeriesPR4sin_DZ,Tutorial 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203105,T13_FouerieSeriesPR5_DZ,Tutorial 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203110,T13_FouerieSeriesPR6_DZ,Tutorial 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203112,Random (Tutorial 13 - Fourier Series and Numerical Fourier Coefficients),Tutorial 13 - Fourier Series and Numerical Fourier Coefficients,random
+203113,Random (Quiz 13 - Fourier Series and Numerical Fourier Coefficients),Quiz 13 - Fourier Series and Numerical Fourier Coefficients,random
+203114,Q13_HalfRangeFouerieCosine_DZ,Quiz 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203115,Q13_FouerieSeriesHeaviside_DZ,Quiz 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203116,Q13_FSpiecewiseFun_DZ,Quiz 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203117,Q13_NumericalFourierCoeffs_DZ,Quiz 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203118,Q13_GraphicalFourierCoeffs_DZ,Quiz 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203119,Q13_HalfRangeFouerieSine_DZ,Quiz 13 - Fourier Series and Numerical Fourier Coefficients,stack
+203120,T1_Int by part_IA_eCampus,1A,stack
+203122,T1_int double angle trig sub_IA_eCampus,1A,stack
+203124,T1_Int exp fun sub_IA_eCampus,1A,stack
+203126,T1_int general sub_IA_eCampus,1A,stack
+203131,T1_Int sqrt sub_DZ_eCampus,1A,stack
+203133,T1_Int by t sub to atan_DZ_eCampus,1B,stack
+203136,T1_Int odd fun to zero_IJ_eCampus,1B,stack
+203139,T1_Int odd fun trig sub_IJ_eCampus,1B,stack
+203149,T1_Int trig sub_DZ_eCampus,1B,stack
+203153,T1_Int trig subs_IJ_eCampus,1B,stack
+203157,T1_Diverging int kind2_IA_eCampus,1C,stack
+203159,T1_Int split interval_IA_eCampus,1C,stack
+203161,T1_Int trig sqrt fun_ANS_IA_eCampus,1C,stack
+203162,T1_Riemman sum quad fun_IA_eCampus,1C,stack
+203163,T2_Theorems_IA,2A,description
+203164,T2_covergence IBP_DZ,2A,stack
+203165,T2_Improper convergent int by sub_DZ,2A,stack
+203166,T2_Improper int by direct sub_DZ,2A,stack
+203167,T2_improper int type 1 and 2_DZ,2A,stack
+203168,T2_Int prf convg to pi_IJ,2A,stack
+203169,T2_Theorems_IA,2B,description
+203170,T2_Int FTC2 _ pow lim_IJ,2B,stack
+203171,T2_Int FTC2 _IJ,2B,stack
+203172,T2_Int FTC2 in_IJ,2B,stack
+203173,T2_Int show divergent_IJ,2B,stack
+203174,T3_area between P3 and P2_IA,3A,stack
+203175,T3_area btn line and y^2=ax+b meet at x-axis_IA,3A,stack
+203176,T3_area btn line and y^2=ax+b meet elsewhere_IA,3A,stack
+203177,T3_area btn line and y=ax^2+bx+c_IA,3A,stack
+203178,T3_area btn two P2 and a line_IA,3A,stack
+203179,T3_area of triangle_IA,3A,stack
+203180,T3_centroid Definition_IA,3B,description
+203181,T3_centroid of region btn 2 curves_IA,3B,stack
+203182,T3_centroid of right < triangle_IA,3B,stack
+203183,T3_centroid of sqrt fun and verical_IA,3B,stack
+203184,T3_length of a curve_DZ_IA,3B,stack
+203185,T3_length of a parametric curve_IA,3B,stack
+203186,T3_Work done_DZ,3B,stack
+203187,T4_Basic Information on DE_IA,4A,description
+203188,T4_Application of Linear DE with IF_IA,4A,stack
+203189,T4_Bernoulli DE_IA,4A,stack
+203190,T4_classification of odes_IA,4A,stack
+203191,T4_exact DE_IA,4A,stack
+203193,T4_homogeneous order 1 DE_IA,4B,stack
+203194,T4_Basic Information on DE_IA,4B,description
+203195,T4_Newtons Cooling_IA,4B,stack
+203197,T4_proof sum of solutions_IA,4B,stack
+203198,T4_separable DE_IA,4B,stack
+203199,T5_UC set contain homo_soln1_exp_IA,UC_sets,stack
+203200,T5_UC set contain homo_soln1_trig_IA,UC_sets,stack
+203201,T5_UC set contain homo_soln2_exp_IA,UC_sets,stack
+203202,T5_UC set contain homo_soln2_trig_IA,UC_sets,stack
+203203,T5_UC set contain no homo_soln_exp_IA,UC_sets,stack
+203204,T5_UC set contain no homo_soln_trig_IA,UC_sets,stack
+203205,T5_UC set homo_repeated root1_exp_IA,UC_sets,stack
+203206,T5_UC set homo_repeated root2_exp_IA,UC_sets,stack
+203207,T5_2nd order ode UC_two exp terms F(x)_IA,odes_UC,stack
+203211,T5_2nd order ode UC_two trig terms F(x)_IA,odes_UC,stack
+203216,T5_2nd order ode repeated roots exp_IA,odes_UC,stack
+203221,T6_VP_exp_sqrt_F(x)_distinct_roots_IA,6A,stack
+203223,T6_VP_exp_sqrt_F(x)_repeated roots_IA,6A,stack
+203224,T6_VP_trig_F(x)_complex_roots_IA,6A,stack
+203225,T6_VP_trig_F(x)_variable coef_IVP1_IA,6A,stack
+203226,T6_VP_trig_F(x)_variable coef_IVP2_IA,6B,stack
+203227,T6_VP_trig_F(x)_variable coeffs_IA,6B,stack
+203228,T6_VP_trig_F(x)_variable coeffs2_IA,6B,stack
+203229,T6_VP_trig_F(x)_variable coeffs3_IA,6B,stack
+203230,T7_Cauchy Euler DE distinct roots_UC_IA,7A,stack
+203231,T7_Cauchy Euler DE distinct roots_VP_IA,7A,stack
+203232,T7_Cauchy Euler DE UC_IA,7A,stack
+203233,T7_Cauchy Euler DE VP_IA,7A,stack
+203234,T7_Basic Information_CE_IA,7A,description
+203235,T7_CEHomoDE(ax+b)powersDistRoots_IA,7B,stack
+203236,T7_OrderReductionHomo_IA,7B,stack
+203237,T7_OrderReductionHomo2_IA,7B,stack
+203238,T7_Basic Information_IA,7B,description
+203239,T8_Bessel_Frobenius_IA,8B - Frobenius Method,stack
+203240,T8_FrobeniusMethodVar1_IA,8B - Frobenius Method,stack
+203241,Information,8B - Frobenius Method,description
+203242,T8_Legendre_DEvar1_IA,8A - Power Series Method,stack
+203243,T8_PowSeriesReg_IVPvar1_IA,8A - Power Series Method,stack
+203244,T8_PowSeriesRegPr1var1_IA,8A - Power Series Method,stack
+203245,T8_PowSeriesRegPr2var1_IA,8A - Power Series Method,stack
+203246,Information,8A - Power Series Method,description
+203247,T9_Babylonian Square Roots_IA,9A,stack
+203248,T9_Combined Methods Comparison_IA,9A,stack
+203249,T9_Cube Root by Newton R_IA,9A,stack
+203250,T9_Estimating PI Using Unit Circle_IA,9A,stack
+203251,T9_Falling Object Equation_IA,9A,stack
+203252,T9_Iterative Linear System_IA,9B,stack
+203253,T9_Newton Method_IA,9B,stack
+203254,T9_Ranking Iteration Formula_IA,9B,stack
+203255,T9_Reciprocal with Newton Method_IA,9B,stack
+203256,T10_BasicSimpRule_IA,10A,stack
+203257,T10_BasicTrapRule_IA,10A,stack
+203258,T10_CompTR_SR_noSTEPS_IA,10A,stack
+203259,T10_CSR_errorAnalysis_IA,10A,stack
+203260,T10_CSR_StepsMarking_IA,10A,stack
+203261,T10_CTR_errorAnalysis_IA,10A,stack
+203263,T10_CTR_StepsMarking_IA,10A,stack
+203264,T10_NumDiff_3points_electrical_IA,10B,stack
+203265,T10_NumDiff_3points_IA (copy),10B,stack
+203266,T10_NumDiff_5points_IA (copy),10B,stack
+203267,T10_EulerM_5iter_TrigIA (copy),11A,stack
+203268,T10_EulerWithInterpol_IA (copy),11A,stack
+203269,T10_MoEuler_5points_Rational_IA (copy),11A,stack
+203270,T10_MoEulerWithErrors_5points_IA (copy),11A,stack
+203271,T10_ModifiedEuler_IA (copy),11A,stack
+203272,T10_PolyConstFromFunInfo_IA (copy),11B,stack
+203273,T10_RK4_IA (copy),11B,stack
+203274,T10_TalylorApproxTrigFuns_IA (copy),11B,stack
+203275,T10_TaylorErrorBound_IA (copy),11B,stack
+203276,question_1,Test 1,stack
+203282,question_2,Test 1,stack
+203285,question_3,Test 1,stack
+203288,question_4,Test 1,stack
+203313,Question 1,Test 2,stack
+203317,Question 2,Test 2,stack
+203320,Question 3,Test 2,stack
+203330,Question 4,Test 2,stack
+221105,Consent to Participate,Default for Informed Consent Form,multichoice

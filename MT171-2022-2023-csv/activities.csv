@@ -1,0 +1,73 @@
+moduleid,modulename,title,sectionid,directory,quiz_userinfo
+8751,label,ForumsEvery week there will be a forum where you c...,2469,activities/label_8751,
+8744,resource,Course Outline,2469,activities/resource_8744,
+8743,forum,NEWS,2469,activities/forum_8743,
+8747,label,Weekly QuizzesEvery week there will be two types o...,2470,activities/label_8747,
+8748,label,Introduction to typing answers in STACKIn this cou...,2470,activities/label_8748,
+8749,page,How to type answers in STACK,2470,activities/page_8749,
+8750,quiz,Quiz 0: Typing STACK Answers,2470,activities/quiz_8750,1
+8745,resource,Integration Techniques 1,2486,activities/resource_8745,
+8746,resource,Integration Techniques 2,2471,activities/resource_8746,
+8752,resource,Integration Techniques 3,2471,activities/resource_8752,
+8753,resource,Integration Techniques 4,2471,activities/resource_8753,
+8755,quiz,Tutorial 1 - Integration Techniques,2471,activities/quiz_8755,1
+8754,resource,Improper Integrals,2471,activities/resource_8754,
+8762,quiz,Quiz 1: Integration Techniques,2471,activities/quiz_8762,1
+8761,quiz,Tutorial 2 - Improper Integrals & Fundamental Theorem of Calculus,2472,activities/quiz_8761,1
+8756,resource,Applications of Integrations,2472,activities/resource_8756,
+8764,quiz,Tutorial 3 - Applications of Integrations,2472,activities/quiz_8764,1
+8766,quiz,Quiz 2: Improper Integrals and FTC,2472,activities/quiz_8766,1
+8771,quiz,Quiz 3: Applications of Integrations,2472,activities/quiz_8771,1
+8768,url,Online Resources on Integrations,2472,activities/url_8768,
+8757,resource,Introducton to Ordinary Differential Equations,2472,activities/resource_8757,
+8769,url,Online Resources on Differential Equations,2472,activities/url_8769,
+8758,resource,Exact DE and Integrating Factor,2473,activities/resource_8758,
+8759,resource,Linear First Order and Bernoulli Equations,2473,activities/resource_8759,
+8760,resource,Applications of First Order ODEs,2473,activities/resource_8760,
+8770,quiz,Tutorial 4 - Introduction to Differential Equations and First Order DEs,2473,activities/quiz_8770,1
+8776,quiz,Quiz 4: Ordinary Differential Equations Basics,2473,activities/quiz_8776,1
+8763,resource,Basic Theory of Linear ODEs,2474,activities/resource_8763,
+8765,resource,Linear DE with Constant Coefficinets,2474,activities/resource_8765,
+8767,resource,Method of Undetermined Coefficients,2474,activities/resource_8767,
+8773,quiz,Tutorial 5 - Non-homogeneous DEs - Undetermined Coefficients,2474,activities/quiz_8773,1
+8779,quiz,Quiz 5: Method of Undetermined Coefficients,2474,activities/quiz_8779,1
+8775,resource,Variation of Parameters,2475,activities/resource_8775,
+8778,quiz,Tutorial 6 - Non-homogeneous DEs - Variation of Parameters,2475,activities/quiz_8778,1
+8784,quiz,Quiz 6: Variation of Parameters,2475,activities/quiz_8784,1
+8903,url,Method of Order Reduction,2475,activities/url_8903,
+8904,url,Cauchy-Euler Differential Equations,2475,activities/url_8904,
+8777,resource,Power Series Method,2475,activities/resource_8777,
+8781,quiz,Tutorial 7 - Cauchy-Euler Differential Equations and Order Reduction Method,2476,activities/quiz_8781,1
+8787,quiz,Quiz 7: Cauchy-Euler and Order Reduction,2476,activities/quiz_8787,1
+8780,resource,Frobenius Method,2476,activities/resource_8780,
+8792,quiz,Tutorial 8 - Power Series and Frobenius Methods,2476,activities/quiz_8792,1
+8799,quiz,Quiz 8: Power Series and Frobenius Methods,2476,activities/quiz_8799,1
+8909,quiz,11.05.2023: Online Lecture - Bessel's Differential Equation and Bessel's Functions,2476,activities/quiz_8909,1
+8783,resource,Non-Linear Equation Methods,2537,activities/resource_8783,
+9098,quiz,25.05.2023: Online Lecture - Bisection Method,2537,activities/quiz_9098,1
+8788,quiz,Tutorial 9 - Non-Linear Equations,2537,activities/quiz_8788,1
+8793,quiz,Quiz 9: Non-Linear Equations,2537,activities/quiz_8793,1
+8785,resource,Numerical Derivatives,2480,activities/resource_8785,
+8786,resource,Numerical Integrations,2480,activities/resource_8786,
+8796,quiz,Tutorial 10 - Numerical Differentiation and Numerical Integrations,2480,activities/quiz_8796,1
+8801,quiz,Quiz 10: Numerical Integrations and Numerical Differentiations,2480,activities/quiz_8801,1
+8790,resource,Numerical solution to odes,2481,activities/resource_8790,
+8791,resource,Runge-Kutta of Order 4,2481,activities/resource_8791,
+8794,resource,Taylor's Theorem,2481,activities/resource_8794,
+8798,quiz,Tutorial 11 - Numerical odes and Taylor's Theorem,2481,activities/quiz_8798,1
+8802,quiz,Quiz 11: Numerical odes and Taylor's Theorem,2481,activities/quiz_8802,1
+9415,resource,Test_1_failed_uploads,2481,activities/resource_9415,
+8795,resource,Infinite Series,2613,activities/resource_8795,
+8797,resource,Power Series,2613,activities/resource_8797,
+8806,quiz,Tutorial 12 - Infinite Series and Power Series,2613,activities/quiz_8806,1
+8807,quiz,Quiz 12: Infinite Series and Power Series,2613,activities/quiz_8807,1
+8800,resource,Fourier Series,2482,activities/resource_8800,
+8803,resource,Fourier Series for General Periods,2482,activities/resource_8803,
+8804,resource,Half Range Expansions,2482,activities/resource_8804,
+8805,resource,Numerical Method for Fourier Series,2483,activities/resource_8805,
+8808,quiz,Tutorial 13 - Fourier Series,2483,activities/quiz_8808,1
+8809,quiz,Quiz 13: Fourier Series,2483,activities/quiz_8809,1
+10062,quiz,Quiz 14: (Optional for BONUS),2483,activities/quiz_10062,1
+10072,label,"INFORMATION GATHERING
+
+QUESTIONNAIRE 1 - Student...",2483,activities/label_10072,
